@@ -1,0 +1,14 @@
+html {
+    font-weight: ;
+}
+.section {
+    width: 100vw;
+}
+#landing {
+    height: 100vh;
+    align-content: center;
+    justify-content: center;
+}
+h1 {
+    font-weight: 900;
+}
